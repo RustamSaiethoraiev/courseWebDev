@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Lesson from './02_components/Lesson.jsx';
+import Lesson from './03_state/Lesson.jsx';
 import registerServiceWorker from './registerServiceWorker';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Syntax without JSX
 // React.createElement('div', null, 'Simple div with text');
